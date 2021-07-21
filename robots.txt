@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+
+git remote add origin https://github.com/sendvijay18/chayachitram.git
+git branch -M main
+git push -u origin main
